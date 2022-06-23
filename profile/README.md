@@ -1,5 +1,5 @@
-# <img src="./assets/MaetSvg.svg" width="40" height="40" align="bottom"> This is Maet.
-Creating opportunities for meaningful purpose and human connection, through the power of business and athletics.
+# <img src="./MaetSvg.svg" width="40" height="40" align="bottom"> This is Maet.
+We are creating opportunities for meaningful purpose and human connection, through the power of business and athletics.
 
 ## ⚖️ Development Philosophy
 As an engineer at Maet, **we strive to create elegant features for our fellow developers and our users**. We have created the following values that help us in our purpose to build valuable developer tools and delightful user experiences.
