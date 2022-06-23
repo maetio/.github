@@ -1,4 +1,4 @@
-# <h1><img src="MaetIcon.svg" width="40" height="40" flex=1 align="center" margin-bottom="45px">This is Maet.</h1>
+# <h1><img src="MaetIcon.svg" width="40" flex=1 align="center" >This is Maet.</h1>
 We are creating opportunities for meaningful purpose and human connection, through the power of business and athletics.
 
 ## ⚖️ Development Philosophy
